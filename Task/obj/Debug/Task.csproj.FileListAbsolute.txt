@@ -1,0 +1,16 @@
+C:\Users\234883\source\repos\Task\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+C:\Users\234883\source\repos\Task\Task\obj\Debug\MainWindow.g.cs
+C:\Users\234883\source\repos\Task\Task\obj\Debug\App.g.cs
+C:\Users\234883\source\repos\Task\Task\obj\Debug\Task_MarkupCompile.cache
+C:\Users\234883\source\repos\Task\Task\obj\Debug\Task_MarkupCompile.lref
+C:\Users\234883\source\repos\Task\Task\obj\Debug\Task.exe
+C:\Users\234883\source\repos\Task\Task\obj\Debug\Task.pdb
+C:\Users\234883\source\repos\Task\Task\bin\Debug\Task.exe.config
+C:\Users\234883\source\repos\Task\Task\bin\Debug\Task.exe
+C:\Users\234883\source\repos\Task\Task\bin\Debug\Task.pdb
+C:\Users\234883\source\repos\Task\Task\obj\Debug\MainWindow.baml
+C:\Users\234883\source\repos\Task\Task\obj\Debug\Task.g.resources
+C:\Users\234883\source\repos\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\234883\source\repos\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\234883\source\repos\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\234883\source\repos\Task\Task\obj\Debug\Task.exe.config
